@@ -4,6 +4,7 @@
 
 ## Introduction
 
+This is a fork of sigs.k8s.io/json with Golang 1.16.x support.
 This library is a subproject of [sig-api-machinery](https://github.com/kubernetes/community/tree/master/sig-api-machinery#json).
 It provides case-sensitive, integer-preserving JSON unmarshaling functions based on `encoding/json` `Unmarshal()`.
 
